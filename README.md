@@ -1,4 +1,4 @@
-#ngDesk API
+# ngDesk API
 
 ngDesk supports 3rd - party developer integration. Simply generate an API key in the webapp and use its client_id and client_secret to make requests. 
 
@@ -48,7 +48,7 @@ The JSON payload must be formatted like this example:
 	}
 
 
-####**Important** - the following fields can only take the values specified below:
+#### **Important** - the following fields can only take the values specified below:
 
 ##### "SEVERITY":
 
@@ -77,7 +77,7 @@ The JSON payload must be formatted like this example:
 	  ]
 	}
 
-####**Important** - the following fields can only take the values specified below
+#### **Important** - the following fields can only take the values specified below
 
 ##### "STATUS":
 
@@ -127,7 +127,7 @@ the JSON payload must be formatted like this example:
 	  ]
 	}
 
-####**Important** - the following fields can only take the values specified below
+#### **Important** - the following fields can only take the values specified below
 
 ##### TICKET_ID
 
